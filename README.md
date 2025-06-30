@@ -49,9 +49,11 @@ Este projeto é um sistema simples de controle de contas bancárias pessoais, de
     venv\Scripts\activate.bat  # Windows
 
 3. Instale as dependências:
+    ```bash
     pip install -r requirements.txt
 
-4. Execute o projeto:
+5. Execute o projeto:
+    ```bash
     python templates.py
 
 ## 📌 Possíveis melhorias
