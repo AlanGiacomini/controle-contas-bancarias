@@ -1,0 +1,2 @@
+sqlmodel>=0.0.14
+matplotlib>=3.7.1
